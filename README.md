@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, Igor Alves aqui 👋
 
-<!--
-**IgorAlvesnr/IgorAlvesnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de software. Em transição de carreira, já trabelhei com lojistica, nas forças armadas e no meio civíl. E neste período de estudos iniciais me identifiquei com a área de BackEnd.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏃🏋🏻‍♂️🤾🏻‍♂️🚴🏼‍♂️ Apaixonado por atividade física.
+* *🤾**Atleta** de Handebol nas horas vagas.
+* 🖥️ Atualmente focado em aprender:
+
+<div style="display: inline">
+&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+</div>
+
+### Me encontre aqui: 
+&nbsp;<a href=https://www.linkedin.com/in/igor-alves-6670582ab/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
