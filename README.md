@@ -1,6 +1,6 @@
 ### Olá, Igor Alves aqui 👋
 
-Estudante de Desenvolvimento de software. Em transição de carreira, já trabelhei com lojistica, nas forças armadas e no meio civíl. E neste período de estudos iniciais me identifiquei com a área de BackEnd.
+Estudante de Desenvolvimento de software. Estou atualmente em transição de carreira, estudando e me aperfeiçoando dia após dia em busca de um conhecimento sólido na área de desenvolvimento de software. Já trabelhei com lojistica, nas forças armadas e no meio civíl. E neste período de estudos iniciais me identifiquei com a área de BackEnd.
 
 
 * 🏃🏋🏻‍♂️🤾🏻‍♂️🚴🏼‍♂️ Apaixonado por atividade física.
